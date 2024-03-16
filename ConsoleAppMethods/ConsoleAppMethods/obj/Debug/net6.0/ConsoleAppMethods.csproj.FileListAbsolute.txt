@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Desktop\bb207\ConsoleAppMethods\ConsoleAppMethods\bin\Debug\net6.0\ConsoleAppMethods.exe
+C:\Users\Asus\OneDrive\Desktop\bb207\ConsoleAppMethods\ConsoleAppMethods\bin\Debug\net6.0\ConsoleAppMethods.deps.json
+C:\Users\Asus\OneDrive\Desktop\bb207\ConsoleAppMethods\ConsoleAppMethods\bin\Debug\net6.0\ConsoleAppMethods.runtimeconfig.json
+C:\Users\Asus\OneDrive\Desktop\bb207\ConsoleAppMethods\ConsoleAppMethods\bin\Debug\net6.0\ConsoleAppMethods.dll
+C:\Users\Asus\OneDrive\Desktop\bb207\ConsoleAppMethods\ConsoleAppMethods\bin\Debug\net6.0\ConsoleAppMethods.pdb
+C:\Users\Asus\OneDrive\Desktop\bb207\ConsoleAppMethods\ConsoleAppMethods\obj\Debug\net6.0\ConsoleAppMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Desktop\bb207\ConsoleAppMethods\ConsoleAppMethods\obj\Debug\net6.0\ConsoleAppMethods.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Desktop\bb207\ConsoleAppMethods\ConsoleAppMethods\obj\Debug\net6.0\ConsoleAppMethods.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Desktop\bb207\ConsoleAppMethods\ConsoleAppMethods\obj\Debug\net6.0\ConsoleAppMethods.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\bb207\ConsoleAppMethods\ConsoleAppMethods\obj\Debug\net6.0\ConsoleAppMethods.sourcelink.json
+C:\Users\Asus\OneDrive\Desktop\bb207\ConsoleAppMethods\ConsoleAppMethods\obj\Debug\net6.0\ConsoleAppMethods.dll
+C:\Users\Asus\OneDrive\Desktop\bb207\ConsoleAppMethods\ConsoleAppMethods\obj\Debug\net6.0\refint\ConsoleAppMethods.dll
+C:\Users\Asus\OneDrive\Desktop\bb207\ConsoleAppMethods\ConsoleAppMethods\obj\Debug\net6.0\ConsoleAppMethods.pdb
+C:\Users\Asus\OneDrive\Desktop\bb207\ConsoleAppMethods\ConsoleAppMethods\obj\Debug\net6.0\ConsoleAppMethods.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Desktop\bb207\ConsoleAppMethods\ConsoleAppMethods\obj\Debug\net6.0\ref\ConsoleAppMethods.dll
