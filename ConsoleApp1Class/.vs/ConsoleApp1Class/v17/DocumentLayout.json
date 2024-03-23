@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\Desktop\\ConsoleApp1Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45355741-4607-4462-B897-6B92791129D8}|ConsoleApp1Class\\ConsoleApp1Class.csproj|c:\\users\\asus\\onedrive\\desktop\\consoleapp1class\\consoleapp1class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45355741-4607-4462-B897-6B92791129D8}|ConsoleApp1Class\\ConsoleApp1Class.csproj|solutionrelative:consoleapp1class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45355741-4607-4462-B897-6B92791129D8}|ConsoleApp1Class\\ConsoleApp1Class.csproj|c:\\users\\asus\\onedrive\\desktop\\consoleapp1class\\consoleapp1class\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45355741-4607-4462-B897-6B92791129D8}|ConsoleApp1Class\\ConsoleApp1Class.csproj|solutionrelative:consoleapp1class\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45355741-4607-4462-B897-6B92791129D8}|ConsoleApp1Class\\ConsoleApp1Class.csproj|c:\\users\\asus\\onedrive\\desktop\\consoleapp1class\\consoleapp1class\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45355741-4607-4462-B897-6B92791129D8}|ConsoleApp1Class\\ConsoleApp1Class.csproj|solutionrelative:consoleapp1class\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\ConsoleApp1Class\\ConsoleApp1Class\\Department.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1Class\\Department.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\ConsoleApp1Class\\ConsoleApp1Class\\Department.cs",
+              "RelativeToolTip": "ConsoleApp1Class\\Department.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAACYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T15:51:23.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\ConsoleApp1Class\\ConsoleApp1Class\\Employee.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1Class\\Employee.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\ConsoleApp1Class\\ConsoleApp1Class\\Employee.cs",
+              "RelativeToolTip": "ConsoleApp1Class\\Employee.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T15:21:33.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\ConsoleApp1Class\\ConsoleApp1Class\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1Class\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\ConsoleApp1Class\\ConsoleApp1Class\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1Class\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T15:14:08.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

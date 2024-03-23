@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Desktop\ConsoleApp1Class\ConsoleApp1Class\bin\Debug\net6.0\ConsoleApp1Class.exe
+C:\Users\Asus\OneDrive\Desktop\ConsoleApp1Class\ConsoleApp1Class\bin\Debug\net6.0\ConsoleApp1Class.deps.json
+C:\Users\Asus\OneDrive\Desktop\ConsoleApp1Class\ConsoleApp1Class\bin\Debug\net6.0\ConsoleApp1Class.runtimeconfig.json
+C:\Users\Asus\OneDrive\Desktop\ConsoleApp1Class\ConsoleApp1Class\bin\Debug\net6.0\ConsoleApp1Class.dll
+C:\Users\Asus\OneDrive\Desktop\ConsoleApp1Class\ConsoleApp1Class\bin\Debug\net6.0\ConsoleApp1Class.pdb
+C:\Users\Asus\OneDrive\Desktop\ConsoleApp1Class\ConsoleApp1Class\obj\Debug\net6.0\ConsoleApp1Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Desktop\ConsoleApp1Class\ConsoleApp1Class\obj\Debug\net6.0\ConsoleApp1Class.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Desktop\ConsoleApp1Class\ConsoleApp1Class\obj\Debug\net6.0\ConsoleApp1Class.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Desktop\ConsoleApp1Class\ConsoleApp1Class\obj\Debug\net6.0\ConsoleApp1Class.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\ConsoleApp1Class\ConsoleApp1Class\obj\Debug\net6.0\ConsoleApp1Class.dll
+C:\Users\Asus\OneDrive\Desktop\ConsoleApp1Class\ConsoleApp1Class\obj\Debug\net6.0\refint\ConsoleApp1Class.dll
+C:\Users\Asus\OneDrive\Desktop\ConsoleApp1Class\ConsoleApp1Class\obj\Debug\net6.0\ConsoleApp1Class.pdb
+C:\Users\Asus\OneDrive\Desktop\ConsoleApp1Class\ConsoleApp1Class\obj\Debug\net6.0\ConsoleApp1Class.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Desktop\ConsoleApp1Class\ConsoleApp1Class\obj\Debug\net6.0\ref\ConsoleApp1Class.dll
