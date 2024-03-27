@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\Desktop\\ConsoleApp2Encapsulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DC6364-5E15-41A8-8BD2-E8D6FAAB38AB}|ConsoleApp2Encapsulation\\ConsoleApp2Encapsulation.csproj|c:\\users\\asus\\onedrive\\desktop\\consoleapp2encapsulation\\consoleapp2encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DC6364-5E15-41A8-8BD2-E8D6FAAB38AB}|ConsoleApp2Encapsulation\\ConsoleApp2Encapsulation.csproj|solutionrelative:consoleapp2encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DC6364-5E15-41A8-8BD2-E8D6FAAB38AB}|ConsoleApp2Encapsulation\\ConsoleApp2Encapsulation.csproj|c:\\users\\asus\\onedrive\\desktop\\consoleapp2encapsulation\\consoleapp2encapsulation\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DC6364-5E15-41A8-8BD2-E8D6FAAB38AB}|ConsoleApp2Encapsulation\\ConsoleApp2Encapsulation.csproj|solutionrelative:consoleapp2encapsulation\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DC6364-5E15-41A8-8BD2-E8D6FAAB38AB}|ConsoleApp2Encapsulation\\ConsoleApp2Encapsulation.csproj|c:\\users\\asus\\onedrive\\desktop\\consoleapp2encapsulation\\consoleapp2encapsulation\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DC6364-5E15-41A8-8BD2-E8D6FAAB38AB}|ConsoleApp2Encapsulation\\ConsoleApp2Encapsulation.csproj|solutionrelative:consoleapp2encapsulation\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DC6364-5E15-41A8-8BD2-E8D6FAAB38AB}|ConsoleApp2Encapsulation\\ConsoleApp2Encapsulation.csproj|c:\\users\\asus\\onedrive\\desktop\\consoleapp2encapsulation\\consoleapp2encapsulation\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DC6364-5E15-41A8-8BD2-E8D6FAAB38AB}|ConsoleApp2Encapsulation\\ConsoleApp2Encapsulation.csproj|solutionrelative:consoleapp2encapsulation\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\ConsoleApp2Encapsulation\\ConsoleApp2Encapsulation\\Library.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2Encapsulation\\Library.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\ConsoleApp2Encapsulation\\ConsoleApp2Encapsulation\\Library.cs",
+              "RelativeToolTip": "ConsoleApp2Encapsulation\\Library.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADAAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:52:44.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\ConsoleApp2Encapsulation\\ConsoleApp2Encapsulation\\Book.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2Encapsulation\\Book.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\ConsoleApp2Encapsulation\\ConsoleApp2Encapsulation\\Book.cs",
+              "RelativeToolTip": "ConsoleApp2Encapsulation\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:46:01.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\ConsoleApp2Encapsulation\\ConsoleApp2Encapsulation\\Product.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2Encapsulation\\Product.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\ConsoleApp2Encapsulation\\ConsoleApp2Encapsulation\\Product.cs",
+              "RelativeToolTip": "ConsoleApp2Encapsulation\\Product.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:39:40.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\ConsoleApp2Encapsulation\\ConsoleApp2Encapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2Encapsulation\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\ConsoleApp2Encapsulation\\ConsoleApp2Encapsulation\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2Encapsulation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:38:47.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

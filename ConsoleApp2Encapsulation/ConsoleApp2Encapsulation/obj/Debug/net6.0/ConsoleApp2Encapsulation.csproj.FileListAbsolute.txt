@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Desktop\ConsoleApp2Encapsulation\ConsoleApp2Encapsulation\bin\Debug\net6.0\ConsoleApp2Encapsulation.exe
+C:\Users\Asus\OneDrive\Desktop\ConsoleApp2Encapsulation\ConsoleApp2Encapsulation\bin\Debug\net6.0\ConsoleApp2Encapsulation.deps.json
+C:\Users\Asus\OneDrive\Desktop\ConsoleApp2Encapsulation\ConsoleApp2Encapsulation\bin\Debug\net6.0\ConsoleApp2Encapsulation.runtimeconfig.json
+C:\Users\Asus\OneDrive\Desktop\ConsoleApp2Encapsulation\ConsoleApp2Encapsulation\bin\Debug\net6.0\ConsoleApp2Encapsulation.dll
+C:\Users\Asus\OneDrive\Desktop\ConsoleApp2Encapsulation\ConsoleApp2Encapsulation\bin\Debug\net6.0\ConsoleApp2Encapsulation.pdb
+C:\Users\Asus\OneDrive\Desktop\ConsoleApp2Encapsulation\ConsoleApp2Encapsulation\obj\Debug\net6.0\ConsoleApp2Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Desktop\ConsoleApp2Encapsulation\ConsoleApp2Encapsulation\obj\Debug\net6.0\ConsoleApp2Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Desktop\ConsoleApp2Encapsulation\ConsoleApp2Encapsulation\obj\Debug\net6.0\ConsoleApp2Encapsulation.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Desktop\ConsoleApp2Encapsulation\ConsoleApp2Encapsulation\obj\Debug\net6.0\ConsoleApp2Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\ConsoleApp2Encapsulation\ConsoleApp2Encapsulation\obj\Debug\net6.0\ConsoleApp2Encapsulation.dll
+C:\Users\Asus\OneDrive\Desktop\ConsoleApp2Encapsulation\ConsoleApp2Encapsulation\obj\Debug\net6.0\refint\ConsoleApp2Encapsulation.dll
+C:\Users\Asus\OneDrive\Desktop\ConsoleApp2Encapsulation\ConsoleApp2Encapsulation\obj\Debug\net6.0\ConsoleApp2Encapsulation.pdb
+C:\Users\Asus\OneDrive\Desktop\ConsoleApp2Encapsulation\ConsoleApp2Encapsulation\obj\Debug\net6.0\ConsoleApp2Encapsulation.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Desktop\ConsoleApp2Encapsulation\ConsoleApp2Encapsulation\obj\Debug\net6.0\ref\ConsoleApp2Encapsulation.dll
