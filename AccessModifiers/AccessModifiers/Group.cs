@@ -74,22 +74,22 @@ namespace AccessModifiers
                 Console.WriteLine($"Fullname is {Students[i].FullName} ");
             }
         }
-        public Student[] FilteredStudent(string fullName)
+        public void FilteredStudent(string searchValue)
         {
-            Student[] filteredStudent= new Student[] { };
-            for(int i = 0;i < Students.Length; i++)
+            bool found = false;
+            for (int i = 0; i < Students.Length; i++)
             {
-                if (Students[i].FullName == fullName)
+                if (Students[i].FullName.ToLower().Contains(searchValue.ToLower()))
                 {
-                    Array.Resize(ref filteredStudent, filteredStudent.Length + 1);
-                    filteredStudent[filteredStudent.Length - 1] = Students[i];
-                }
-                else
-                {
-                    Console.WriteLine("Tapilmadi");
+                    Console.WriteLine($"Tapılan telebe: {Students[i].FullName}, Qrup No: {Students[i].GroupNo}, Ortalama : {Students[i].AvgPoint}");
+                    found = true;
                 }
             }
-            return filteredStudent;
+
+            if (!found)
+            {
+                Console.WriteLine("Tapılmadı");
+            }
         }
     }
 }

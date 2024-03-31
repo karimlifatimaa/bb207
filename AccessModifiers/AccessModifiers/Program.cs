@@ -73,13 +73,9 @@ namespace AccessModifiers
                         group.ShowAllStudents();
                         break; 
                     case "3":
-                        Console.WriteLine("axtardiginiz fullname i daxil et");
-                        string fullname= Console.ReadLine();
-                        Student[] filtered = group.FilteredStudent(fullname);
-                        foreach (var studet in filtered)
-                        {
-                            Console.WriteLine($"FulName: {studet.FullName}, Grup No: {studet.GroupNo}, AvgPoint: {studet.AvgPoint}");
-                        }
+                        Console.WriteLine("Axtaris deyerini daxil edin:");
+                        string searchValue = Console.ReadLine();
+                        group.FilteredStudent(searchValue);
                         break;
                     case "0":
                         Console.WriteLine("Proqram bitti");
