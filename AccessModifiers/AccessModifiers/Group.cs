@@ -10,8 +10,8 @@ namespace AccessModifiers
     {
         public string No { get; set; }
         public Student[] Students = new Student[] { };
-        private int StudentLimit;
-        public int _studentLimit
+        private int _studentLimit; 
+        public int StudentLimit 
         {
             get
             {
@@ -29,7 +29,7 @@ namespace AccessModifiers
                 }
             }
         }
-      
+
         public Group(string no,int studentLimit)
         {
             
