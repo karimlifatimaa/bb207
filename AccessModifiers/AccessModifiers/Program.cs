@@ -10,7 +10,8 @@ namespace AccessModifiers
            
             string no;
             int limit;
-            
+            int studentCount = 0;
+            string str;
             do
             {
                 Console.WriteLine("No daxil et 2 boyuk herfle baslamalı ve sonrasında 3 reqem olmalıdır (AB204 kimi)");
@@ -20,8 +21,9 @@ namespace AccessModifiers
             do
             {
                 Console.WriteLine("Student sayini daxil et");
+                str= Console.ReadLine();
 
-            } while (!int.TryParse(Console.ReadLine(), out limit) || limit > 20 || limit < 0);
+            } while (!int.TryParse(str, out limit) || limit > 20 || limit < 0);
             Console.WriteLine("Group yaradildi ");
 
             Group group = new Group(no, limit);            
@@ -42,6 +44,8 @@ namespace AccessModifiers
                 {
                     case "1":
 
+                        if (studentCount < limit) { 
+
                         Console.WriteLine("FullNami daxil et :");                        
                         string fullName = Console.ReadLine();
 
@@ -58,7 +62,12 @@ namespace AccessModifiers
                         } while (!double.TryParse(pointStr, out point));
                         Student student = new Student(fullName,groupNo,point);
                         group.AddStudent(student);
-                        
+                            studentCount++;
+                        }
+                        else
+                        {
+                            Console.WriteLine("Limit doldu");
+                        }
                         break;
                     case "2":
                         group.ShowAllStudents();
@@ -79,7 +88,7 @@ namespace AccessModifiers
                         break ;
                 }
 
-            } while (answer!="0" );
+            } while (answer!="0" || studentCount < limit);
 
         }
     }
