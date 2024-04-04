@@ -18,6 +18,7 @@ namespace ClassManagment
 
             } while (!int.TryParse(pointStr,out point));
             Student student = new Student(fullname,point);
+           
 
             bool exit=false;
             string answer = "";
@@ -36,7 +37,7 @@ namespace ClassManagment
                         student.StudentInfo();
                         break;
                     case "2":
-                        Console.WriteLine("GroupNo daxil et");
+                        
                         string groupno="";
                         do
                         {
@@ -80,7 +81,7 @@ namespace ClassManagment
                                     do
                                     {
                                         Console.WriteLine("id daxil et");
-                                        pointStr = Console.ReadLine();
+                                        idStr = Console.ReadLine();
 
                                     } while (!int.TryParse(idStr, out id));
                                     group.GetStudent(id).StudentInfo();
@@ -116,7 +117,11 @@ namespace ClassManagment
                         break;
                     case "0":
                         exit = true;
+                        Console.WriteLine("cix");
                         break;
+                    default :
+                        Console.WriteLine( "duz sec");
+                        break ;
                 }
 
 

@@ -14,10 +14,14 @@ namespace ClassManagment
         public int Point;
         public Student(string fullName,int point)
         {
-            _id++;
             Id = _id;
+            _id++;
             Fullname = fullName;
             Point = point;  
+        }
+        public Student()
+        {
+                
         }
         public void StudentInfo()
         {
