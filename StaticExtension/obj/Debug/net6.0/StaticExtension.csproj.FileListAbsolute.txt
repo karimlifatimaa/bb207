@@ -28,3 +28,18 @@ C:\Users\Asus\OneDrive\Desktop\bb207\StaticExtension\obj\Debug\net6.0\refint\Sta
 C:\Users\Asus\OneDrive\Desktop\bb207\StaticExtension\obj\Debug\net6.0\StaticExtension.pdb
 C:\Users\Asus\OneDrive\Desktop\bb207\StaticExtension\obj\Debug\net6.0\StaticExtension.genruntimeconfig.cache
 C:\Users\Asus\OneDrive\Desktop\bb207\StaticExtension\obj\Debug\net6.0\ref\StaticExtension.dll
+C:\Users\II novbe\Desktop\bb207\StaticExtension\bin\Debug\net6.0\StaticExtension.exe
+C:\Users\II novbe\Desktop\bb207\StaticExtension\bin\Debug\net6.0\StaticExtension.deps.json
+C:\Users\II novbe\Desktop\bb207\StaticExtension\bin\Debug\net6.0\StaticExtension.runtimeconfig.json
+C:\Users\II novbe\Desktop\bb207\StaticExtension\bin\Debug\net6.0\StaticExtension.dll
+C:\Users\II novbe\Desktop\bb207\StaticExtension\bin\Debug\net6.0\StaticExtension.pdb
+C:\Users\II novbe\Desktop\bb207\StaticExtension\obj\Debug\net6.0\StaticExtension.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\bb207\StaticExtension\obj\Debug\net6.0\StaticExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\bb207\StaticExtension\obj\Debug\net6.0\StaticExtension.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\bb207\StaticExtension\obj\Debug\net6.0\StaticExtension.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\bb207\StaticExtension\obj\Debug\net6.0\StaticExtension.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\bb207\StaticExtension\obj\Debug\net6.0\StaticExtension.dll
+C:\Users\II novbe\Desktop\bb207\StaticExtension\obj\Debug\net6.0\refint\StaticExtension.dll
+C:\Users\II novbe\Desktop\bb207\StaticExtension\obj\Debug\net6.0\StaticExtension.pdb
+C:\Users\II novbe\Desktop\bb207\StaticExtension\obj\Debug\net6.0\StaticExtension.genruntimeconfig.cache
+C:\Users\II novbe\Desktop\bb207\StaticExtension\obj\Debug\net6.0\ref\StaticExtension.dll
