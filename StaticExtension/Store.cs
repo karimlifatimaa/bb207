@@ -35,7 +35,7 @@ namespace StaticExtension
                     updatedProducts[updatedProducts.Length-1] = products[i];
                 }
             }
-
+            products=updatedProducts;
             return updatedProducts; 
 
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StaticExtension")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5598adde78753571d0bf9f0361f7f4ddcdf87c6c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("StaticExtension")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StaticExtension")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
